@@ -1,2 +1,2 @@
-# Supply-Mission
-Supply Mission by Adithya Pratap Chatterjee
+# SupplyMissionC23
+SupplyMissionC23
